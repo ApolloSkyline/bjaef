@@ -49,6 +49,10 @@ img {
 	flex-direction: column;
 	height: 100vh;
 
+	.logo {
+		margin-bottom: 25px;
+	}
+
 	.subheader {
 		color: #f1f1f1;
 		margin-top: 25px;
@@ -65,4 +69,3 @@ img {
 		}
 	}
 }
-
